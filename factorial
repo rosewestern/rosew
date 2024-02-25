@@ -1,0 +1,5 @@
+from factorial import calculate_factorial
+
+# Example usage
+result = calculate_factorial(5)
+print(result)  # Output: 120
